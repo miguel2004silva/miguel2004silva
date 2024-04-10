@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0000FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Miguel+Silva!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Miguel+Silva!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 Atualmente estudante de Engenharia de Software na UNILESTE (Centro Educacional Católico do Leste de Minas Gerais). Apaixonado por tecnologias e inovação, me interesso em back-end. Mantenho o estudo contínuo e autônomo constantemente para utilizar meus conhecimentos em criações de soluções inovadoras!
 
