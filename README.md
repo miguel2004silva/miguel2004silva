@@ -5,8 +5,7 @@ Atualmente estudante de Engenharia de Software na UNILESTE (Centro Educacional C
 
 ### Conecte-se comigo!
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/miguell_ssa)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-de-sá-silva-1bb59a28b)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/miguel-de-sá-silva-1bb59a28b)
 
 
 ### Tecnologias que eu utilizo no meu dia
